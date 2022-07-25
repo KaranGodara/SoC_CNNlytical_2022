@@ -73,4 +73,8 @@ We implemented entire working model of CNN and also saw how it gives significant
 After learning all the theory required to classify images using CNNs and linear classifiers. We were ready to step into the real world. So now in Assignment 4, we were told to implement the paper based on **U-Net Architechture** and to do **image segmentation**, which involves working with very small dataset but yet getting SOTA accuracies by changing the given image by performing various functions on it, such as cropping, flipping, reverting etc. 
 The dataset we used for this assignment was **CARVANA dataset**, which is a dataset containing cars at various different angles and colors.
 
+The dataset and its mask are :
+
+<img width="96" alt="Screenshot 2022-07-25 at 7 02 53 PM" src="https://user-images.githubusercontent.com/94215375/180789709-da377205-d68d-4499-8cd9-9fd329b2a235.png">
+
 Happy Coding ♥️
