@@ -69,6 +69,8 @@ Also we were given time to study about pyTorch and TorchVision(used for computer
 After going through this learning phase, we were given Assignment 3, this assignment was programming heavy and more complex as in it we were to apply the knowledge we had gained till now about CNNs on making our model and this time the dataset we used was CIFAR dataset, in which we classified images in 10 different labels.
 We implemented entire working model of CNN and also saw how it gives significant difference in performance compared to linear classifier.
 
+<img width="550" alt="Screenshot 2022-07-25 at 7 05 09 PM" src="https://user-images.githubusercontent.com/94215375/180790083-545db93e-b3ef-40b7-967e-ba042bb02883.png">
+
 ### Early July to end of SoC
 After learning all the theory required to classify images using CNNs and linear classifiers. We were ready to step into the real world. So now in Assignment 4, we were told to implement the paper based on **U-Net Architechture** and to do **image segmentation**, which involves working with very small dataset but yet getting SOTA accuracies by changing the given image by performing various functions on it, such as cropping, flipping, reverting etc. 
 The dataset we used for this assignment was **CARVANA dataset**, which is a dataset containing cars at various different angles and colors.
