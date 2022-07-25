@@ -2,9 +2,9 @@
 The goal of this project was to make you well-versed with CNNs, enough that one can write an entire network in PyTorch from scratch. It will kickstart one's journey into Deep Learning.
 
 ## Mentors
-Akshat Kumar
-Vaibhav Raj
-Ashwin Ramachandran
+1. Akshat Kumar
+2. Vaibhav Raj
+3. Ashwin Ramachandran
 
 ## Work done under the SoC
 ### Mid April - First Week of May
