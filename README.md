@@ -43,6 +43,11 @@ Another refrence which we needed to study in this period/phase was tutorial on *
 Here we were presented our **first Assignment** which we needed to complete. In this assignment we needed to use the MNIST dataset comprising of numbers 0 to 9 written in various styles. Our model was to be made using Neural Networks and its aim was to be able to predict the number written on them once the training was done with reasonably good accuracy.
 We in this assignment implemented from scratch everything starting from loss functions, optimization methods to backward propagation. We were to only and only use numpy to all the above calculations and steps.
 
+Few test images representing my model prediction were:
+
+<img width="239" alt="Screenshot 2022-07-25 at 5 47 43 PM" src="https://user-images.githubusercontent.com/94215375/180781597-f66ea734-3043-441f-9571-375915596f0d.png">
+
+
 ### Mid-May to first week of June
 In this phase we were to study about the **Convolutional Neural Networks** from the lectues we were following of CS231n by Andrej Karpathy and see how they are different from the Neural Networks and why and how they provide better results.
 In it we saw how the model architechture is defined as how here we instead of using a fully-connected pathway as we did in NNs we only connect few neurons from the one layer to the neuron in following layer. We saw how here instead of working in 2D we also keep track of spatial 3D model of data.
@@ -52,6 +57,10 @@ Apart from this what we were required to learn and study about **pyTorch API** a
 We had to see video tutorials and articles to study the same.
 
 After learning all these things we were given **Assignment 2**, wherein using the same dataset MNIST but this time using pyTorch API, we were to implement our previous model. 
+
+Few test images representing my model prediction were:
+
+<img width="201" alt="Screenshot 2022-07-25 at 5 48 13 PM" src="https://user-images.githubusercontent.com/94215375/180781666-f005fab5-e809-4a12-8c79-6d5d41da081a.png">
 
 ### first week of June to end of June
 Till now we have studied all the theory about NNs carefully and also implemented the same for 2 straight assignments. Now in this phase we were told to go over the CNN part carefully again, solve any query or doubt we may have yet. 
